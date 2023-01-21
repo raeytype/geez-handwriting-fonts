@@ -14,49 +14,77 @@ The Geʾez Handwriting typefaces are in a thin handwritten style as would be pro
 ### <ins>Regular</ins> 
 <ins>Geʾez Handwriting</ins> (`GeezHandwriting.ufo` on the filesystem) is the basic font in the default style where the letters have a handwrtitten appearance as would be seen when formed by a a typical pen or pencil. The regular styles are intended for viewing only, and *not* to be traced over or inside of.
 
+<img src="images/GeezHandwritingRegular.png" alt="Geʾez Handwriting Regular"/>
+
 #### With Bold
 A **bold weight** typeface of the basic style that can be used for emphasis is also part of the collection and uses the same font name, <ins>Geʾez Handwriting</ins>, as the regular style.  On the filesystem the bold typeface can be found in the `GeezHandwritingBold.ufo` folder.
+
+<img src="images/GeezHandwritingRegularBold.png" alt="Geʾez Handwriting Regular Bold"/>
 
 #### With Arrows
 <ins>Geʾez Handwriting with Arrows</ins> (`GeezHandwritingWithArrows.ufo`) adds directional arrow lines alongside the letter strokes to indicate the direction of writing.
 
+<img src="images/GeezHandwritingRegularArrows.png" alt="Geʾez Handwriting Regular with Arrows"/>
+
 #### With Rules
 <ins>Geʾez Handwriting with Rules</ins> (`GeezHandwritingWithRules.ufo`) adds writing lines (aka “rules”) as would be seen in a ruled notebook.  The rules help the learner to better perceive the letter heights as well as anchor letters on a common base line.  **Note** that empty rule lines, with no letter inside, can be entered from the keyboard by typing the special letter `|`.  This is intended to help create practice lines for the learning writer.
+
+<img src="images/GeezHandwritingRegularRules.png" alt="Geʾez Handwriting Regular with Rules"/>
 
 #### With Arrows and Rules
 <ins>Geʾez Handwriting Arrows Rules</ins> (`GeezHandwritingArrowsRules.ufo`) adds *both* the arrows and rules together to help guide the learner in writing along practice lines.
 
+<img src="images/GeezHandwritingRegularArrowsRules.png" alt="Geʾez Handwriting Regular with Arrows and Rules"/>
+
 #### Arrows Only
 <ins>Geʾez Handwriting Arrows Only</ins> (`GeezHandwritingArrowsOnly.ufo`) provides *only* the arrows that indicate stroke direction.  The strokes themselves have been removed. This style is helpful as a reminder to the learner how to form a letter without providing the final result.
+
+
+<img src="images/GeezHandwritingArrowsOnly.png" alt="Geʾez Handwriting Arrows Only"/>
 
 ### <ins>Dots</ins>
 <ins>Geʾez Handwriting Dots</ins> (`GeezHandwritingDots.ufo`) is a style the forms the letter strokes with a sequence of circular dots. The intent of this style is to assist learners through practice where they may trace of the dots to learn the hand motions.
 
+<img src="images/GeezHandwritingDots.png" alt="Geʾez Handwriting Dots"/>
+
 #### With Arrows
 <ins>Geʾez Handwriting Dots Arrows</ins> (`GeezHandwritingWithDotsArrows.ufo`) adds the directional arrow lines alongside the dot based strokes to indicate the direction of writing.
+
+<img src="images/GeezHandwritingDotsArrows.png" alt="Geʾez Handwriting Dots with Arrows"/>
 
 
 #### With Rules
 <ins>Geʾez Handwriting Dots Rules</ins> (`GeezHandwritingWithDotsRules.ufo`) adds writing lines (aka “rules”) as would be seen in a ruled notebook.  The rules help the learner to better perceive the letter heights as well as anchor letters on a common base line.
 
+<img src="images/GeezHandwritingDotsRules.png" alt="Geʾez Handwriting Dots with Rules"/>
+
 #### With Arrows and Rules
 <ins>Geʾez Handwriting Dots Arr Rules</ins> (`GeezHandwritingDotsArrRules.ufo`) adds *both* the arrows and rules together to help guide the learner in writing along practice lines.
+
+<img src="images/GeezHandwritingDotsArrowsRules.png" alt="Geʾez Handwriting Dots with Arrows and Rules"/>
 
 
 ### <ins>Outlines</ins>
 
 <ins>Geʾez Handwriting Outlines</ins> (`GeezHandwritingOutlines.ufo`) is an outline style of the basic font.  Like the dot style, the outline style is intended for practice writing where the learner can trace inside the empty space of the letters.
 
+<img src="images/GeezHandwritingOutlines.png" alt="Geʾez Handwriting Outlines"/>
+
 
 #### With Arrows
 <ins>Geʾez Handwriting Out Arrows</ins> (`GeezHandwritingOutArrows.ufo`) adds the directional arrow lines alongside the outline based strokes to indicate the direction of writing.
 
+<img src="images/GeezHandwritingOutlinesArrows.png" alt="Geʾez Handwriting Outlines with Arrows"/>
+
 #### With Rules
 <ins>Geʾez Handwriting Outlines Rules</ins> (`GeezHandwritingOutlinesRules.ufo`) adds writing lines (aka “rules”) as would be seen in a ruled notebook.  The rules help the learner to better perceive the letter heights as well as anchor letters on a common base line.
+
+<img src="images/GeezHandwritingOutlinesRules.png" alt="Geʾez Handwriting Outlines with Rules"/>
 
 #### With Arrows and Rules
 <ins>Geʾez Handwriting Out Arr Rules</ins> (`GeezHandwritingOutArrRules.ufo`) adds *both* the arrows and rules together to help guide the learner in writing along practice lines.
 
+<img src="images/GeezHandwritingOutlinesArrowsRules.png" alt="Geʾez Handwriting Outlines with Arrows and Rules"/>
 
 
 
