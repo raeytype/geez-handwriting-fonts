@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="2">
+  <advance width="307"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="162" y="612" type="curve" smooth="yes"/>
+      <point x="162" y="578"/>
+      <point x="145" y="559"/>
+      <point x="111" y="559" type="curve" smooth="yes"/>
+      <point x="76" y="559"/>
+      <point x="57" y="578"/>
+      <point x="57" y="612" type="curve" smooth="yes"/>
+      <point x="57" y="647"/>
+      <point x="76" y="664"/>
+      <point x="111" y="664" type="curve" smooth="yes"/>
+      <point x="145" y="664"/>
+      <point x="162" y="647"/>
+    </contour>
+    <contour>
+      <point x="154" y="80" type="curve" smooth="yes"/>
+      <point x="154" y="45"/>
+      <point x="137" y="27"/>
+      <point x="102" y="27" type="curve" smooth="yes"/>
+      <point x="68" y="27" name=".hr01"/>
+      <point x="49" y="45"/>
+      <point x="49" y="80" type="curve" smooth="yes" name=".hr02"/>
+      <point x="49" y="115"/>
+      <point x="68" y="131"/>
+      <point x="102" y="131" type="curve" smooth="yes"/>
+      <point x="137" y="131" name=".hr03"/>
+      <point x="154" y="115"/>
+    </contour>
+    <contour>
+      <point x="102" y="-70" type="curve" smooth="yes"/>
+      <point x="102" y="-104"/>
+      <point x="86" y="-121"/>
+      <point x="51" y="-121" type="curve" smooth="yes"/>
+      <point x="16" y="-121"/>
+      <point x="-2" y="-104"/>
+      <point x="-2" y="-70" type="curve" smooth="yes"/>
+      <point x="-2" y="-35"/>
+      <point x="16" y="-16"/>
+      <point x="51" y="-16" type="curve" smooth="yes"/>
+      <point x="86" y="-16"/>
+      <point x="102" y="-35"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>9d1c995fa408ca2c5011a3dda1f62f2d06cc92dd5f5aa33b24ab081aaa8d356d12a8e3c75b5967077e047aa7309c6c411fb758c83fb106181c26bbe4564d1ac7</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 559 104</string>
+          <string>vstem 57 104</string>
+          <string>hstem 27 104</string>
+          <string>hstem -121 104</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 27 104</string>
+          <string>vstem -2 104</string>
+          <string>hstem -121 104</string>
+          <string>hstem 559 104</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 49 104</string>
+          <string>hstem 27 104</string>
+          <string>hstem -121 104</string>
+          <string>hstem 559 104</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 27 104</string>
+          <string>vstem -2 104</string>
+          <string>hstem -121 104</string>
+          <string>hstem 559 104</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

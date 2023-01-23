@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bar" format="2">
+  <advance width="943"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="3000" y="1527" type="line"/>
+      <point x="0" y="1527" type="line"/>
+      <point x="0" y="1562" type="line"/>
+      <point x="3000" y="1562" type="line"/>
+    </contour>
+    <contour>
+      <point x="3000" y="-35" type="line"/>
+      <point x="0" y="-35" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="3000" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w943m3000,1527l0,1527l0,1562l3000,1562m3000,-35l0,-35l0,0l3000,0</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem -51 51</string>
+          <string>hstem 674 51</string>
+          <string>hstem 1325 51</string>
+          <string>vstem -27 53</string>
+          <string>vstem 180 51</string>
+          <string>vstem 385 51</string>
+          <string>vstem 590 51</string>
+          <string>vstem 795 51</string>
+          <string>vstem 999 51</string>
+          <string>vstem 1204 51</string>
+          <string>vstem 1409 51</string>
+          <string>vstem 1614 51</string>
+          <string>vstem 1819 51</string>
+          <string>vstem 2023 51</string>
+          <string>vstem 2228 51</string>
+          <string>vstem 2433 51</string>
+          <string>vstem 2638 51</string>
+          <string>vstem 2843 51</string>
+          <string>vstem 3047 51</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

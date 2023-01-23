@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="2">
+  <advance width="819"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="274" y="1212" type="curve" smooth="yes"/>
+      <point x="274" y="1253"/>
+      <point x="254" y="1274"/>
+      <point x="211" y="1274" type="curve" smooth="yes"/>
+      <point x="170" y="1274"/>
+      <point x="150" y="1253"/>
+      <point x="150" y="1212" type="curve" smooth="yes"/>
+      <point x="150" y="1169"/>
+      <point x="170" y="1149"/>
+      <point x="211" y="1149" type="curve" smooth="yes"/>
+      <point x="254" y="1149"/>
+      <point x="274" y="1169"/>
+    </contour>
+    <contour>
+      <point x="592" y="1212" type="curve" smooth="yes"/>
+      <point x="592" y="1253"/>
+      <point x="571" y="1274"/>
+      <point x="528" y="1274" type="curve" smooth="yes"/>
+      <point x="487" y="1274"/>
+      <point x="467" y="1253"/>
+      <point x="467" y="1212" type="curve" smooth="yes"/>
+      <point x="467" y="1169"/>
+      <point x="487" y="1149"/>
+      <point x="528" y="1149" type="curve" smooth="yes"/>
+      <point x="571" y="1149"/>
+      <point x="592" y="1169"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>96beb55ef4ea59ef2bb3c109b58e7be461f46c15bdc04ece5a5ad857b4829a1d86bacb9f2f25ecabab9635ac49c9e2fe7723e99753dba008908b6c2b36e2a3e4</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1149 125</string>
+          <string>vstem 150 125</string>
+          <string>vstem 467 125</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

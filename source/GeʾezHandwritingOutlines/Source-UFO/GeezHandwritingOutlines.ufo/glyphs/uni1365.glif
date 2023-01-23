@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1365" format="2">
+  <advance width="1253"/>
+  <unicode hex="1365"/>
+  <outline>
+    <contour>
+      <point x="640" y="895.385" type="curve" smooth="yes"/>
+      <point x="640" y="833.217"/>
+      <point x="587.143" y="784.589"/>
+      <point x="524.083" y="784.589" type="curve" smooth="yes"/>
+      <point x="461.084" y="784.589"/>
+      <point x="407.961" y="833.16"/>
+      <point x="407.961" y="895.385" type="curve" smooth="yes"/>
+      <point x="407.961" y="957.667"/>
+      <point x="461.144" y="1005.98"/>
+      <point x="524.083" y="1005.98" type="curve" smooth="yes"/>
+      <point x="587.082" y="1005.98"/>
+      <point x="640" y="957.614"/>
+    </contour>
+    <contour>
+      <point x="903.782" y="660.07" type="curve" smooth="yes"/>
+      <point x="235.929" y="512.615" type="line" smooth="yes"/>
+      <point x="139.409" y="491.304"/>
+      <point x="105.552" y="631.174"/>
+      <point x="202.137" y="652.493" type="curve" smooth="yes"/>
+      <point x="870.195" y="799.949" type="line" smooth="yes"/>
+      <point x="966.562" y="821.219"/>
+      <point x="1000.28" y="681.376"/>
+    </contour>
+    <contour>
+      <point x="640" y="391.783" type="curve" smooth="yes"/>
+      <point x="640" y="329.61"/>
+      <point x="587.143" y="280.986"/>
+      <point x="524.083" y="280.986" type="curve" smooth="yes"/>
+      <point x="461.084" y="280.986"/>
+      <point x="407.962" y="329.557"/>
+      <point x="407.962" y="391.783" type="curve" smooth="yes"/>
+      <point x="407.962" y="454.065"/>
+      <point x="461.144" y="502.375"/>
+      <point x="524.083" y="502.375" type="curve" smooth="yes"/>
+      <point x="587.082" y="502.375"/>
+      <point x="640" y="454.011"/>
+    </contour>
+    <contour>
+      <point x="599.859" y="895.385" type="curve" smooth="yes"/>
+      <point x="599.859" y="933.394"/>
+      <point x="567.179" y="965.837"/>
+      <point x="524.083" y="965.837" type="curve" smooth="yes"/>
+      <point x="480.93" y="965.837"/>
+      <point x="448.103" y="933.34"/>
+      <point x="448.103" y="895.386" type="curve" smooth="yes"/>
+      <point x="448.103" y="857.375"/>
+      <point x="480.99" y="824.729"/>
+      <point x="524.083" y="824.729" type="curve" smooth="yes"/>
+      <point x="567.119" y="824.729"/>
+      <point x="599.859" y="857.32"/>
+    </contour>
+    <contour>
+      <point x="895.181" y="698.982" type="line" smooth="yes"/>
+      <point x="940.368" y="708.959"/>
+      <point x="923.413" y="770.884"/>
+      <point x="878.797" y="761.037" type="curve" smooth="yes"/>
+      <point x="210.739" y="613.581" type="line" smooth="yes"/>
+      <point x="165.452" y="603.585"/>
+      <point x="182.599" y="541.651"/>
+      <point x="227.328" y="551.526" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="599.859" y="391.783" type="curve" smooth="yes"/>
+      <point x="599.859" y="429.792"/>
+      <point x="567.179" y="462.234"/>
+      <point x="524.083" y="462.234" type="curve" smooth="yes"/>
+      <point x="480.93" y="462.234"/>
+      <point x="448.103" y="429.738"/>
+      <point x="448.103" y="391.783" type="curve" smooth="yes"/>
+      <point x="448.103" y="353.769"/>
+      <point x="480.99" y="321.127"/>
+      <point x="524.083" y="321.127" type="curve" smooth="yes"/>
+      <point x="567.118" y="321.127"/>
+      <point x="599.859" y="353.716"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>1da32ac4b44c29b1345022bc178b5a4b48f5aace20ec7a71e43ad18dedce2b2150ca3ed6c54b083abffe81747b6d6fca67c77b1a00c3430413ab470867dff684</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 222 -21</string>
+          <string>hstem 1174 -20</string>
+          <string>vstem 420 248</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

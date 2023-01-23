@@ -1,0 +1,6 @@
+#> languagesystem
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem ethi dflt;
+languagesystem grek dflt;
+#< languagesystem

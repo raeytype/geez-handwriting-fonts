@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="2">
+  <advance width="1638"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="1487" y="385" type="curve" smooth="yes"/>
+      <point x="1487" y="350"/>
+      <point x="1468" y="332"/>
+      <point x="1434" y="332" type="curve" smooth="yes"/>
+      <point x="1399" y="332"/>
+      <point x="1382" y="350"/>
+      <point x="1382" y="385" type="curve" smooth="yes"/>
+      <point x="1382" y="420"/>
+      <point x="1399" y="436"/>
+      <point x="1434" y="436" type="curve" smooth="yes"/>
+      <point x="1468" y="436"/>
+      <point x="1487" y="420"/>
+    </contour>
+    <contour>
+      <point x="1282" y="385" type="curve" smooth="yes"/>
+      <point x="1282" y="350"/>
+      <point x="1264" y="332"/>
+      <point x="1229" y="332" type="curve" smooth="yes"/>
+      <point x="1194" y="332"/>
+      <point x="1178" y="350"/>
+      <point x="1178" y="385" type="curve" smooth="yes"/>
+      <point x="1178" y="420"/>
+      <point x="1194" y="436"/>
+      <point x="1229" y="436" type="curve" smooth="yes"/>
+      <point x="1264" y="436"/>
+      <point x="1282" y="420"/>
+    </contour>
+    <contour>
+      <point x="1077" y="385" type="curve" smooth="yes"/>
+      <point x="1077" y="350"/>
+      <point x="1059" y="332"/>
+      <point x="1024" y="332" type="curve" smooth="yes"/>
+      <point x="989" y="332"/>
+      <point x="973" y="350"/>
+      <point x="973" y="385" type="curve" smooth="yes"/>
+      <point x="973" y="420"/>
+      <point x="989" y="436"/>
+      <point x="1024" y="436" type="curve" smooth="yes"/>
+      <point x="1059" y="436"/>
+      <point x="1077" y="420"/>
+    </contour>
+    <contour>
+      <point x="872" y="385" type="curve" smooth="yes"/>
+      <point x="872" y="350"/>
+      <point x="854" y="332"/>
+      <point x="819" y="332" type="curve" smooth="yes"/>
+      <point x="784" y="332"/>
+      <point x="768" y="350"/>
+      <point x="768" y="385" type="curve" smooth="yes"/>
+      <point x="768" y="420"/>
+      <point x="784" y="436"/>
+      <point x="819" y="436" type="curve" smooth="yes"/>
+      <point x="854" y="436"/>
+      <point x="872" y="420"/>
+    </contour>
+    <contour>
+      <point x="668" y="385" type="curve" smooth="yes"/>
+      <point x="668" y="350"/>
+      <point x="649" y="332"/>
+      <point x="614" y="332" type="curve" smooth="yes"/>
+      <point x="580" y="332"/>
+      <point x="563" y="350"/>
+      <point x="563" y="385" type="curve" smooth="yes"/>
+      <point x="563" y="420"/>
+      <point x="580" y="436"/>
+      <point x="614" y="436" type="curve" smooth="yes"/>
+      <point x="649" y="436"/>
+      <point x="668" y="420"/>
+    </contour>
+    <contour>
+      <point x="463" y="385" type="curve" smooth="yes"/>
+      <point x="463" y="350"/>
+      <point x="444" y="332"/>
+      <point x="410" y="332" type="curve" smooth="yes"/>
+      <point x="375" y="332"/>
+      <point x="358" y="350"/>
+      <point x="358" y="385" type="curve" smooth="yes"/>
+      <point x="358" y="420"/>
+      <point x="375" y="436"/>
+      <point x="410" y="436" type="curve" smooth="yes"/>
+      <point x="444" y="436"/>
+      <point x="463" y="420"/>
+    </contour>
+    <contour>
+      <point x="258" y="385" type="curve" smooth="yes"/>
+      <point x="258" y="350"/>
+      <point x="240" y="332"/>
+      <point x="205" y="332" type="curve" smooth="yes"/>
+      <point x="170" y="332"/>
+      <point x="154" y="350"/>
+      <point x="154" y="385" type="curve" smooth="yes"/>
+      <point x="154" y="420"/>
+      <point x="170" y="436"/>
+      <point x="205" y="436" type="curve" smooth="yes"/>
+      <point x="240" y="436"/>
+      <point x="258" y="420"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>8de716188509f353fd41b1e209a20e79e683961b0722314a0b98b3656c73edb5a8c6f8d017632f0e35648b1d32ead4287cd0574e1f1c602ce642fb3506946a32</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 332 104</string>
+          <string>vstem 154 104</string>
+          <string>vstem 358 104</string>
+          <string>vstem 563 104</string>
+          <string>vstem 768 104</string>
+          <string>vstem 973 104</string>
+          <string>vstem 1178 104</string>
+          <string>vstem 1382 104</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

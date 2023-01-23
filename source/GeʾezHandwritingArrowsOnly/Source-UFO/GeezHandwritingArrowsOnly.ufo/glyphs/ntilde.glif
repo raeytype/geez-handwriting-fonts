@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ntilde" format="2">
+  <advance width="819"/>
+  <unicode hex="00F1"/>
+  <outline>
+    <contour>
+      <point x="705" y="887" type="curve" smooth="yes"/>
+      <point x="705" y="872"/>
+      <point x="698" y="860"/>
+      <point x="688" y="848" type="curve"/>
+      <point x="596" y="791"/>
+      <point x="528" y="762"/>
+      <point x="487" y="762" type="curve" smooth="yes"/>
+      <point x="465" y="762"/>
+      <point x="427.891" y="776.847"/>
+      <point x="381" y="809" type="curve" smooth="yes"/>
+      <point x="357.893" y="824.844"/>
+      <point x="336" y="834" name=".hr01"/>
+      <point x="317" y="834" type="curve" smooth="yes"/>
+      <point x="283" y="834"/>
+      <point x="242" y="813"/>
+      <point x="190" y="772" type="curve"/>
+      <point x="180" y="762" name=".hr02"/>
+      <point x="168" y="758"/>
+      <point x="156" y="758" type="curve" smooth="yes"/>
+      <point x="121" y="758"/>
+      <point x="102" y="776"/>
+      <point x="102" y="811" type="curve" smooth="yes"/>
+      <point x="102" y="823"/>
+      <point x="109" y="836"/>
+      <point x="119" y="848" type="curve"/>
+      <point x="209" y="907"/>
+      <point x="274" y="936" name=".hr03"/>
+      <point x="317" y="936" type="curve" smooth="yes"/>
+      <point x="350" y="936"/>
+      <point x="382.078" y="923.118"/>
+      <point x="418" y="899" type="curve" smooth="yes"/>
+      <point x="452.08" y="876.118"/>
+      <point x="477" y="864" name=".hr04"/>
+      <point x="487" y="864" type="curve" smooth="yes"/>
+      <point x="512" y="864"/>
+      <point x="555" y="885"/>
+      <point x="618" y="924" type="curve"/>
+      <point x="629" y="934"/>
+      <point x="639" y="938"/>
+      <point x="653" y="938" type="curve" smooth="yes"/>
+      <point x="688" y="938"/>
+      <point x="705" y="922"/>
+    </contour>
+    <contour>
+      <point x="680" y="53" type="line" smooth="yes"/>
+      <point x="680" y="17.998"/>
+      <point x="664" y="0"/>
+      <point x="629" y="0" type="curve" smooth="yes"/>
+      <point x="594" y="0"/>
+      <point x="578" y="18"/>
+      <point x="578" y="53" type="curve" smooth="yes"/>
+      <point x="578" y="461" type="line"/>
+      <point x="563" y="541"/>
+      <point x="506.004" y="582"/>
+      <point x="410" y="582" type="curve" smooth="yes"/>
+      <point x="316.996" y="582"/>
+      <point x="262" y="541"/>
+      <point x="240" y="461" type="curve"/>
+      <point x="240" y="51" type="line" smooth="yes"/>
+      <point x="240" y="15.9987"/>
+      <point x="223" y="0"/>
+      <point x="188" y="0" type="curve" smooth="yes"/>
+      <point x="154" y="0"/>
+      <point x="137" y="16"/>
+      <point x="137" y="51" type="curve" smooth="yes"/>
+      <point x="137" y="633" type="line" smooth="yes"/>
+      <point x="137" y="664"/>
+      <point x="154.005" y="681.907"/>
+      <point x="188" y="684" type="curve" smooth="yes"/>
+      <point x="219.007" y="685.908"/>
+      <point x="236" y="670"/>
+      <point x="240" y="639" type="curve"/>
+      <point x="240" y="631" type="line"/>
+      <point x="274" y="666"/>
+      <point x="331.998" y="684"/>
+      <point x="410" y="684" type="curve" smooth="yes"/>
+      <point x="573.005" y="684"/>
+      <point x="680" y="594.01"/>
+      <point x="680" y="432" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>f2af72b20acb84f2e6ad19cf983e955e9fd2a643be930efee1c7186db932265dc6d5726511e24eac171079ba4d5c6f32d00f5a0fa8c42cf14dcf8d9c8e26ddaa</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 762 102</string>
+          <string>hstem 0 43</string>
+          <string>hstem 582 102</string>
+          <string>vstem 137 102</string>
+          <string>vstem 578 102</string>
+        </array>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 834 102</string>
+          <string>hstem 0 43</string>
+          <string>hstem 582 102</string>
+          <string>vstem 137 102</string>
+          <string>vstem 578 102</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr01</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 762 102</string>
+          <string>hstem 0 43</string>
+          <string>hstem 582 102</string>
+          <string>vstem 137 102</string>
+          <string>vstem 578 102</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr02</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 834 102</string>
+          <string>hstem 0 43</string>
+          <string>hstem 582 102</string>
+          <string>vstem 137 102</string>
+          <string>vstem 578 102</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr03</string>
+      </dict>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 762 102</string>
+          <string>vstem 578 102</string>
+          <string>hstem 0 43</string>
+          <string>hstem 582 102</string>
+          <string>vstem 137 102</string>
+        </array>
+        <key>pointTag</key>
+        <string>.hr04</string>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>
