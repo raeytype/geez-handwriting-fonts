@@ -1,3 +1,12 @@
+# Glyph Extension Project
+
+The goal of this project is to extend the 
+[Geʾez Handwriting Fonts](https://github.com/raeytype/geez-handwriting-fonts) collection to 
+include all letters in [Modern Use](ModernSyllabary.md).
+
+
+---
+
 # Geʾez Handwriting Fonts
 
 This repository project attempts the continuation of the original font work by [Educational Fontware, Inc.](https://www.educationalfontware.com/) that help in teaching of handwriting to children who speak languages that are written in the Geʾez (aka “Ethiopic”) script. 
